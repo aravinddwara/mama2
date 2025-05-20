@@ -17,9 +17,9 @@
         ],
         "version": 15,
         "internalName": "AllMovieLandProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AllMovieLandProvider.jar",
         "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AllMovieLandProvider.cs3",
         "name": "AllMovieLandProvider"
     },
     {
@@ -40,8 +40,8 @@
         ],
         "version": 4,
         "internalName": "Anichi",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anichi.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Anichi.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Anichi.cs3",
         "name": "Anichi"
     },
     {
@@ -60,9 +60,9 @@
         ],
         "version": 5,
         "internalName": "AnimeCloud",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeCloud.jar",
         "description": "German (Lang) Anime",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeCloud.cs3",
         "name": "AnimeCloud"
     },
     {
@@ -83,9 +83,9 @@
         ],
         "version": 50,
         "internalName": "AnimeDekhoProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeDekhoProvider.jar",
         "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeDekhoProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeDekhoProvider.cs3",
         "name": "AnimeDekhoProvider"
     },
     {
@@ -106,9 +106,9 @@
         ],
         "version": 24,
         "internalName": "AnimeKai",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeKai.jar",
         "description": "Animes & Animes Movie",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeKai.cs3",
         "name": "AnimeKai"
     },
     {
@@ -128,9 +128,9 @@
         ],
         "version": 5,
         "internalName": "Animekhor",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animekhor.jar",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animekhor.cs3",
         "name": "Animekhor"
     },
     {
@@ -151,9 +151,9 @@
         ],
         "version": 7,
         "internalName": "Animenosub",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animenosub.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animenosub.jar",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animenosub.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animenosub.cs3",
         "name": "Animenosub"
     },
     {
@@ -174,9 +174,9 @@
         ],
         "version": 16,
         "internalName": "AnimeOwl",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeOwl.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeOwl.jar",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeOwl.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimeOwl.cs3",
         "name": "AnimeOwl"
     },
     {
@@ -197,9 +197,9 @@
         ],
         "version": 8,
         "internalName": "AnimePahe",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimePahe.jar",
         "description": "Animes (SUB/DUB)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/AnimePahe.cs3",
         "name": "AnimePahe"
     },
     {
@@ -220,9 +220,9 @@
         ],
         "version": 7,
         "internalName": "Animexin",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animexin.jar",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animexin.cs3",
         "name": "Animexin"
     },
     {
@@ -243,9 +243,9 @@
         ],
         "version": 5,
         "internalName": "Animez",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animez.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animez.jar",
         "description": "Animez Animes",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animez.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Animez.cs3",
         "name": "Animez"
     },
     {
@@ -266,9 +266,9 @@
         ],
         "version": 45,
         "internalName": "Anisaga",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anisaga.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Anisaga.jar",
         "description": "Anisaga Hindi Animes",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anisaga.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Anisaga.cs3",
         "name": "Anisaga"
     },
     {
@@ -288,9 +288,9 @@
         ],
         "version": 10,
         "internalName": "BanglaPlex",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/BanglaPlex.jar",
         "description": "BanglaPlex",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/BanglaPlex.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/BanglaPlex.cs3",
         "name": "BanglaPlex"
     },
     {
@@ -310,8 +310,8 @@
         ],
         "version": 4,
         "internalName": "Bolly2TollyProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Bolly2TollyProvider.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Bolly2TollyProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Bolly2TollyProvider.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Bolly2TollyProvider.cs3",
         "name": "Bolly2TollyProvider"
     },
     {
@@ -331,9 +331,9 @@
         ],
         "version": 7,
         "internalName": "Coflix",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Coflix.jar",
         "description": "Movies,Series and Anime French Extension ",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Coflix.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Coflix.cs3",
         "name": "Coflix"
     },
     {
@@ -352,8 +352,8 @@
         ],
         "version": 13,
         "internalName": "Desicinemas",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Desicinemas.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Desicinemas.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Desicinemas.cs3",
         "name": "Desicinemas"
     },
     {
@@ -372,9 +372,9 @@
         ],
         "version": 8,
         "internalName": "Donghuastream",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Donghuastream.jar",
         "description": "Contains SeaTV (Chinese)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Donghuastream.cs3",
         "name": "Donghuastream"
     },
     {
@@ -395,9 +395,9 @@
         ],
         "version": 3,
         "internalName": "DoraBash",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DoraBash.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/DoraBash.jar",
         "description": "Doremon Show in Hindi",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DoraBash.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/DoraBash.cs3",
         "name": "DoraBash"
     },
     {
@@ -418,9 +418,9 @@
         ],
         "version": 3,
         "internalName": "Fivemovierulz",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Fivemovierulz.jar",
         "description": "Movies & Series",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Fivemovierulz.cs3",
         "name": "Fivemovierulz"
     },
     {
@@ -440,9 +440,9 @@
         ],
         "version": 1,
         "internalName": "FourKHDHub",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/FourKHDHub.jar",
         "description": "4K Movies Extension by HDHUB4U",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/FourKHDHub.cs3",
         "name": "FourKHDHub"
     },
     {
@@ -462,9 +462,9 @@
         ],
         "version": 2,
         "internalName": "Funmovieslix",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Funmovieslix.jar",
         "description": "Indonesia Source",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Funmovieslix.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Funmovieslix.cs3",
         "name": "Funmovieslix"
     },
     {
@@ -485,8 +485,8 @@
         ],
         "version": 13,
         "internalName": "HDhub4u",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/HDhub4u.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/HDhub4u.cs3",
         "name": "HDhub4u"
     },
     {
@@ -505,7 +505,7 @@
         ],
         "version": 8,
         "internalName": "HiAnime",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HiAnime.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/HiAnime.cs3",
         "name": "HiAnime"
     },
     {
@@ -525,9 +525,9 @@
         ],
         "version": 22,
         "internalName": "Hikaritv",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hikaritv.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Hikaritv.jar",
         "description": "Hikari Anime Extension",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hikaritv.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Hikaritv.cs3",
         "name": "Hikaritv"
     },
     {
@@ -545,9 +545,9 @@
         ],
         "version": 4,
         "internalName": "IndianTVProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IndianTVProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/IndianTVProvider.jar",
         "description": "Indian TV",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IndianTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/IndianTVProvider.cs3",
         "name": "IndianTVProvider"
     },
     {
@@ -566,9 +566,9 @@
         ],
         "version": 5,
         "internalName": "IPTVPlayer",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/IPTVPlayer.jar",
         "description": "IPTV Player",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/IPTVPlayer.cs3",
         "name": "IPTVPlayer"
     },
     {
@@ -589,9 +589,9 @@
         ],
         "version": 2,
         "internalName": "KdramaHoodProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KdramaHoodProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/KdramaHoodProvider.jar",
         "description": "Kdramas and Movies",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KdramaHoodProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/KdramaHoodProvider.cs3",
         "name": "KdramaHoodProvider"
     },
     {
@@ -612,8 +612,8 @@
         ],
         "version": 15,
         "internalName": "Kickassanime",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kickassanime.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Kickassanime.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Kickassanime.cs3",
         "name": "Kickassanime"
     },
     {
@@ -632,9 +632,9 @@
         ],
         "version": 3,
         "internalName": "KimCartoon",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KimCartoon.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/KimCartoon.jar",
         "description": "KimCartoon - Watch cartoons in high quality",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KimCartoon.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/KimCartoon.cs3",
         "name": "KimCartoon"
     },
     {
@@ -656,8 +656,8 @@
         ],
         "version": 10,
         "internalName": "KisskhProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/KisskhProvider.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
     },
     {
@@ -678,8 +678,8 @@
         ],
         "version": 3,
         "internalName": "LayarKacaProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.jar",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/LayarKacaProvider.jar",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {
@@ -698,9 +698,9 @@
         ],
         "version": 1,
         "internalName": "LiveTV",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LiveTV.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/LiveTV.jar",
         "description": "Live TV and Live Events",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LiveTV.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/LiveTV.cs3",
         "name": "LiveTV"
     },
     {
@@ -720,9 +720,9 @@
         ],
         "version": 6,
         "internalName": "MassTamilanProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MassTamilanProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/MassTamilanProvider.jar",
         "description": "Indian Multi-language Music Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MassTamilanProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/MassTamilanProvider.cs3",
         "name": "MassTamilanProvider"
     },
     {
@@ -741,13 +741,13 @@
         ],
         "version": 2,
         "internalName": "Megakino",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Megakino.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Megakino.jar",
         "description": "Movies,Series and Anime German Extension ",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Megakino.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Megakino.cs3",
         "name": "Megakino"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Movierulzhd/faviconV2.png",
+        "iconUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/refs/heads/master/Movierulzhd/faviconV2.png",
         "jarFileSize": 179977,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -763,9 +763,9 @@
         ],
         "version": 138,
         "internalName": "Movierulzhd",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Movierulzhd.jar",
         "description": "Includes: Hdmovie2,hdmovie6",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movierulzhd.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Movierulzhd.cs3",
         "name": "Movierulzhd"
     },
     {
@@ -786,9 +786,9 @@
         ],
         "version": 11,
         "internalName": "MPlayerProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/MPlayerProvider.jar",
         "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/MPlayerProvider.cs3",
         "name": "MPlayerProvider"
     },
     {
@@ -809,9 +809,9 @@
         ],
         "version": 38,
         "internalName": "MultiMoviesProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/MultiMoviesProvider.jar",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/MultiMoviesProvider.cs3",
         "name": "MultiMoviesProvider"
     },
     {
@@ -830,7 +830,7 @@
         "version": 2,
         "internalName": "NOXXProvider",
         "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/NOXXProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/NOXXProvider.cs3",
         "name": "NOXXProvider"
     },
     {
@@ -849,9 +849,9 @@
         ],
         "version": 8,
         "internalName": "OnePace",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OnePace.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/OnePace.jar",
         "description": "One Pace",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OnePace.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/OnePace.cs3",
         "name": "OnePace"
     },
     {
@@ -871,9 +871,9 @@
         ],
         "version": 2,
         "internalName": "Ownfmx",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ownfmx.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Ownfmx.jar",
         "description": "movies and series",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ownfmx.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Ownfmx.cs3",
         "name": "Ownfmx"
     },
     {
@@ -893,9 +893,9 @@
         ],
         "version": 4,
         "internalName": "PagalWorld",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PagalWorld.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/PagalWorld.jar",
         "description": "Indian Multi-language Music Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PagalWorld.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/PagalWorld.cs3",
         "name": "PagalWorld"
     },
     {
@@ -915,9 +915,9 @@
         ],
         "version": 4,
         "internalName": "Pencurimovie",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Pencurimovie.jar",
         "description": "Pencurimovie ",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Pencurimovie.cs3",
         "name": "Pencurimovie"
     },
     {
@@ -937,9 +937,9 @@
         ],
         "version": 2,
         "internalName": "Pinoymoviepedia",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pinoymoviepedia.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Pinoymoviepedia.jar",
         "description": "Contains Bluray7",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pinoymoviepedia.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Pinoymoviepedia.cs3",
         "name": "Pinoymoviepedia"
     },
     {
@@ -959,9 +959,9 @@
         ],
         "version": 5,
         "internalName": "PRMoviesProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PRMoviesProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/PRMoviesProvider.jar",
         "description": "Contains Bharatiya Movies & Webseries from Indian Film Industry and Dubbed Hollywood content, Max Resolution is 720p",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PRMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/PRMoviesProvider.cs3",
         "name": "PRMoviesProvider"
     },
     {
@@ -980,9 +980,9 @@
         ],
         "version": 2,
         "internalName": "PublicSportsIPTV",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/PublicSportsIPTV.jar",
         "description": "Sports Live Streams",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/PublicSportsIPTV.cs3",
         "name": "PublicSportsIPTV"
     },
     {
@@ -1001,9 +1001,9 @@
         ],
         "version": 5,
         "internalName": "QuickIPTV",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/QuickIPTV.jar",
         "description": "Includes PirateIPTV,Sports IPTV,Japanese IPTV,Sony IPTV",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/QuickIPTV.cs3",
         "name": "QuickIPTV"
     },
     {
@@ -1023,13 +1023,13 @@
         ],
         "version": 8,
         "internalName": "ShowFlixProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowFlixProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/ShowFlixProvider.jar",
         "description": "HD Provider for all Indian Languages",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/ShowFlixProvider.cs3",
         "name": "ShowFlixProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/master/Telugumv/faviconV2.png",
+        "iconUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/refs/heads/master/Telugumv/faviconV2.png",
         "jarFileSize": 52984,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
@@ -1044,9 +1044,9 @@
         ],
         "version": 6,
         "internalName": "Streamblasters",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Streamblasters.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Streamblasters.jar",
         "description": "Streamblasters Multi Language",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Streamblasters.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Streamblasters.cs3",
         "name": "Streamblasters"
     },
     {
@@ -1072,7 +1072,7 @@
         "version": 269,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/StreamPlay.cs3",
         "name": "StreamPlay"
     },
     {
@@ -1096,7 +1096,7 @@
         "version": 14,
         "internalName": "SuperStream",
         "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperStream.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/SuperStream.cs3",
         "name": "SuperStream"
     },
     {
@@ -1115,7 +1115,7 @@
         "version": 2,
         "internalName": "Tamilian",
         "description": "Movies (Tamil)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilian.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Tamilian.cs3",
         "name": "Tamilian"
     },
     {
@@ -1135,9 +1135,9 @@
         ],
         "version": 3,
         "internalName": "Telugumv",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Telugumv.jar",
         "description": "Telugu Movies and TV Series",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Telugumv.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Telugumv.cs3",
         "name": "Telugumv"
     },
     {
@@ -1156,9 +1156,9 @@
         ],
         "version": 3,
         "internalName": "Tennistream",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Tennistream.jar",
         "description": "Tennistream",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tennistream.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Tennistream.cs3",
         "name": "Tennistream"
     },
     {
@@ -1179,9 +1179,9 @@
         ],
         "version": 4,
         "internalName": "ToonHub",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonHub.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/ToonHub.jar",
         "description": "ToonHub Multi Language",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonHub.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/ToonHub.cs3",
         "name": "ToonHub"
     },
     {
@@ -1202,9 +1202,9 @@
         ],
         "version": 7,
         "internalName": "Tooniboy",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tooniboy.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Tooniboy.jar",
         "description": "Tooniboy Multi Language",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tooniboy.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Tooniboy.cs3",
         "name": "Tooniboy"
     },
     {
@@ -1225,9 +1225,9 @@
         ],
         "version": 28,
         "internalName": "Toonstream",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Toonstream.jar",
         "description": "ToonStream Multi Language",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Toonstream.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Toonstream.cs3",
         "name": "Toonstream"
     },
     {
@@ -1246,9 +1246,9 @@
         ],
         "version": 2,
         "internalName": "ToonTales",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonTales.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/ToonTales.jar",
         "description": "ToonTales",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonTales.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/ToonTales.cs3",
         "name": "ToonTales"
     },
     {
@@ -1267,9 +1267,9 @@
         ],
         "version": 2,
         "internalName": "Topcartoons",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Topcartoons.jar",
         "description": "Top Cartoon",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topcartoons.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Topcartoons.cs3",
         "name": "Topcartoons"
     },
     {
@@ -1289,9 +1289,9 @@
         ],
         "version": 5,
         "internalName": "Topstreamfilm",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topstreamfilm.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Topstreamfilm.jar",
         "description": "Filme  and Serien (German)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topstreamfilm.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/Topstreamfilm.cs3",
         "name": "Topstreamfilm"
     },
     {
@@ -1314,7 +1314,7 @@
         "version": 28,
         "internalName": "TorraStream",
         "description": "#1 Best Extension \u2013 MultiAPI-Based with 4K Torrent Support (Debian) | Debian Users: Use Site Clone on Torrastream-Debian Example | Provider=Key OR TorBox=xxx-xxx-xxx-xxx",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/TorraStream.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/TorraStream.cs3",
         "name": "TorraStream"
     },
     {
@@ -1334,7 +1334,7 @@
         "version": 24,
         "internalName": "UHDmoviesProvider",
         "description": "Indian Multi-language 4K Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
     },
     {
@@ -1354,9 +1354,9 @@
         ],
         "version": 2,
         "internalName": "WatchMMAFull",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/WatchMMAFull.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/WatchMMAFull.jar",
         "description": "MMA Videos",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/WatchMMAFull.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/WatchMMAFull.cs3",
         "name": "WatchMMAFull"
     },
     {
@@ -1376,9 +1376,9 @@
         ],
         "version": 4,
         "internalName": "YTS",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.jar",
+        "jarUrl": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/YTS.jar",
         "description": "YTS Movies 4K Support (Torrent)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
+        "url": "https://raw.githubusercontent.com/aravinddwara/mama2/builds/YTS.cs3",
         "name": "YTS"
     }
 ]
